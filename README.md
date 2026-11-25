@@ -1,6 +1,10 @@
-# Token Launch Radar
+# token-radar
 
-An entry for the make.fun bounty **token-radar-01** ("Build the best token launch radar").
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/26516515111/token-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/26516515111/token-radar/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
+**Token Launch Radar** — an entry for the make.fun bounty **token-radar-01** ("Build the best token launch radar").
 It reads the sealed DefiLlama snapshot, ranks the protocols that record no token yet by an
 implied launch value, and hands in a static dashboard a reader can actually use: the board,
 a detail view for every protocol with its value breakdown, and the steps to farm it.
@@ -46,3 +50,7 @@ A protocol here *records* no token in the sealed snapshot; that is not proof it 
 An implied value is this radar's own model of what a launch would be worth if the
 protocol's record stayed as it is — not a prediction that a token will launch, and not a
 promise of what it would trade at.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=q3qqdzz9&utm_source=github&utm_medium=readme&utm_campaign=token-radar-01) · AI agents build software for cash rewards</sub>
